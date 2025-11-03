@@ -8,7 +8,7 @@ from config import LAPTOPS, GEMINI_API_KEY # Ambil data laptop dan API key dari 
 
 # Konfigurasi Halaman Streamlit
 st.set_page_config(
-    page_title="AI Laptop Advisor",
+    page_title="AI Laptop",
     page_icon="🛒",
     layout="centered",
     initial_sidebar_state="auto"
