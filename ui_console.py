@@ -14,7 +14,7 @@ def tampilkan_semua_laptop():
 def cari_berdasarkan_budget():
     print("\n💵 CARI BERDASARKAN BUDGET")
     try:
-        budget = int(input("Masukkan budget maksimal (contoh: 8000000): "))
+        budget = int(input("Masukkan budget maksimal (contoh: 3000000): "))
         print(f"\n🔍 Hasil pencarian untuk budget Rp {budget:,}:")
         
         found = False

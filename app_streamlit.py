@@ -191,7 +191,7 @@ def render_konsultasi_ai():
 # ==============================================================================
 
 # Judul utama aplikasi
-st.title("🛒 AI Laptop Advisor")
+st.title("🛒 AI Laptop")
 
 # Inisialisasi "view" atau halaman di session state
 if 'view' not in st.session_state:
